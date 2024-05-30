@@ -1,3 +1,4 @@
+![](https://github.com/Nochsiv/DataScience_TUX/blob/main/githubBanner.gif)
 # Startup Success Analysis
 
 Welcome to the Startup Success Analysis project! This repository contains an in-depth analysis of the factors contributing to the success and failure of startups. This project is part of a data science course aimed at understanding the critical elements that influence startup outcomes using data analysis and machine learning techniques.
