@@ -50,17 +50,37 @@ CB Insights analyzed the post-mortems of 101 startups to compile a list of the t
 
 The repository is organized as follows:
 
-- _`data_`: Contains the dataset used for analysis.
-- _`notebooks_`: Jupyter notebooks with data exploration, analysis, and machine learning models.
-- _`src_`: Source code for data preprocessing, feature engineering, and model evaluation.
-- _`reports_`: Generated analysis reports and visualizations.
+- `data`: Contains the dataset used for analysis.
+- `notebooks`: Jupyter notebooks with data exploration, analysis, and machine learning models.
+- `src`: Source code for data preprocessing, feature engineering, and model evaluation.
+- `reports`: Generated analysis reports and visualizations.
 
-### Installation
+## Contributed
+
+We welcome contributions from the open-source community. If you'd like to contribute to TUX's development, please check out our GitHub repository for guidelines on how to contribute.
 
 Clone the repository:
 
 ```rush
 git clone https://github.com/Nochsiv/DataScience_TUX
 ```
-# Technologies
+## Technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+## Contact
+
+If you have any questions, feedback, or concerns, feel free to reach out to our support team at [support@tux.kh](niccolo27.dev@gmail.com)
+
+## License
+
+Kraoop Beauty is released under the [MIT](https://opensource.org/license/mit/) License. You are free to use, modify, and distribute this software following the terms of the license.
 
