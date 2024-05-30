@@ -50,24 +50,17 @@ CB Insights analyzed the post-mortems of 101 startups to compile a list of the t
 
 The repository is organized as follows:
 
-- **data/**: Contains the dataset used for analysis.
-- **notebooks/**: Jupyter notebooks with data exploration, analysis, and machine learning models.
-- **src/**: Source code for data preprocessing, feature engineering, and model evaluation.
-- **reports/**: Generated analysis reports and visualizations.
-
-## Getting Started
-
-### Prerequisites
-
-- Python 3.7+
-- Jupyter Notebook
-- Required Python libraries listed in `requirements.txt`
+- _`data_`: Contains the dataset used for analysis.
+- _`notebooks_`: Jupyter notebooks with data exploration, analysis, and machine learning models.
+- _`src_`: Source code for data preprocessing, feature engineering, and model evaluation.
+- _`reports_`: Generated analysis reports and visualizations.
 
 ### Installation
 
 Clone the repository:
 
-```bash
-git clone https://github.com/yourusername/startup-success-analysis.git
-cd startup-success-analysis
+```rush
+git clone https://github.com/Nochsiv/DataScience_TUX
 ```
+# Technologies
+
